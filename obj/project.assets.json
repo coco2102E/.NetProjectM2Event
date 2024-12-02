@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\ryzen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
