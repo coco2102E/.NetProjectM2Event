@@ -3,24 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\bdd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:bdd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|c:\\users\\ryzen\\documents\\asp.net projects\\webapplication2\\.netprojectm2event\\bdd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{C12E5FD3-3B2E-4BFD-90E5-A146031D53FF}|WebApplication2.csproj|solutionrelative:bdd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,18 +83,148 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:45:01.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T08:52:40.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T13:32:43.781Z"
+              "WhenOpened": "2024-12-02T13:32:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:49:12.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "Controllers\\HelloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:55:18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:03:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:05:28.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:10:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:19:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BDD.sql ",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\BDD.sql",
+              "RelativeDocumentMoniker": "BDD.sql",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\BDD.sql",
+              "RelativeToolTip": "BDD.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-03T12:25:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-12-03T13:10:24.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -67,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "HomeController1.cs",
               "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\HomeController1.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController1.cs",
@@ -75,23 +245,12 @@
               "RelativeToolTip": "Controllers\\HomeController1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:56:01.664Z"
+              "WhenOpened": "2024-12-02T12:56:01.664Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HelloController.cs",
-              "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\HelloController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HelloController.cs",
-              "ToolTip": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Controllers\\HelloController.cs",
-              "RelativeToolTip": "Controllers\\HelloController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T12:55:18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ryzen\\Documents\\ASP.NET PROJECTS\\WebApplication2\\.NetProjectM2Event\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -99,7 +258,8 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T10:50:41.444Z"
+              "WhenOpened": "2024-12-02T10:50:41.444Z",
+              "EditorCaption": ""
             }
           ]
         }
